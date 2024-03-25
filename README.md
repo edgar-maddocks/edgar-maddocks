@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edgar-maddocks
 - 👀 I’m interested in financial data analysis and machine learning
-- 🌱 I’m currently learning C# and school and am self-taught Python and self-teaching C++
+- 🌱 I’m currently learning C# at school and am self-taught Python and self-teaching C++
 - 💞️ I’m looking to collaborate on any projects I have the ability to
 
 <!---
