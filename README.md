@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @edgar-maddocks
-- 👀 I’m interested in financial data analysis and machine learning
-- 🌱 I’m currently learning C# at school and am self-taught Python and self-teaching C++
-- 💞️ I’m looking to collaborate on any projects I have the ability to
+# Edgar
 
-<!---
-edgar-maddocks/edgar-maddocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer. React, Python, Rust. Also design.
+
+[Portfolio](https://yourusername.github.io)
+
+## Stack
+
+**Backend**: Python (FastAPI), Rust (Axum), GraphQL<br>
+**Frontend**: React + TypeScript, Vite<br>
+**Infrastructure**: Google Cloud, Docker<br>
+**Design**: Figma, image compositing<br>
+
+## Work
+
+See [edgar-maddocks.github.io](https://edgar-maddocks.github.io) for projects and case studies.
+
+## Interests
+
+Triathlon, data, and design
+
+## Connect
+
+- Email: edgarmaddocks@gmail.com
+- LinkedIn: https://linkedin.com/edgar-maddocks
