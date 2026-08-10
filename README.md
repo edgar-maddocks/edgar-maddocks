@@ -1,15 +1,15 @@
 # Edgar
 
-Full-stack developer. React, Python, Rust. Also design.
+Full-stack developer. React, Python and Shopify GraphQL. Also some design.
 
 [Portfolio](https://yourusername.github.io)
 
 ## Stack
 
-**Backend**: Python (FastAPI), Rust (Axum), GraphQL<br>
-**Frontend**: React + TypeScript, Vite<br>
+**Backend**: Python (FastAPI/Peewee ORM), GraphQL<br>
+**Frontend**: React + TypeScript/Javascript, Vite<br>
 **Infrastructure**: Google Cloud, Docker<br>
-**Design**: Figma, image compositing<br>
+**Design**: Figma<br>
 
 ## Work
 
